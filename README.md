@@ -6,7 +6,7 @@
 | **Nama** | Elen Novita Sari |
 | **Mata Kuliah** | Konsep Data Warehouse & Mining |
 | **Program Studi** | Sistem Informasi |
-| **Institusi** | Institut Teknologi & Bisnis Bina Sarana Global |
+| **Institusi** | Institut Teknologi dan Bisnis Bina Sarana Global |
 
 ---
 
