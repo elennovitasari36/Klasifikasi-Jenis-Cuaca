@@ -31,7 +31,7 @@ Algoritma yang digunakan adalah **Random Forest** yang dioptimalkan dengan **Gri
 | Platform | Link |
 |---|---|
 | 🌐 **Google Sites** | [Klik di sini](https://sites.google.com/view/elen-novita-sari) |
-| ▶️ **YouTube** | *(Coming soon)* |
+| ▶️ **YouTube** | [Klik di sini](https://youtu.be/OCuBddofdXs) |
 | 📊 **Dataset Kaggle** | [Weather Type Classification](https://www.kaggle.com/datasets/nikhil7280/weather-type-classification) |
 
 ---
