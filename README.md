@@ -6,7 +6,7 @@
 | **Nama** | Elen Novita Sari |
 | **Mata Kuliah** | Konsep Data Warehouse & Mining |
 | **Program Studi** | Sistem Informasi |
-| **Institusi** | Institut Teknologi dan Bisnis Bina Sarana Global |
+| **Institusi** | Institut Teknologi & Bisnis Bina Sarana Global |
 
 ---
 
@@ -32,6 +32,7 @@ Algoritma yang digunakan adalah **Random Forest** yang dioptimalkan dengan **Gri
 |---|---|
 | 🌐 **Google Sites** | [Klik di sini](https://sites.google.com/view/elen-novita-sari) |
 | ▶️ **YouTube** | *(Coming soon)* |
+| 📊 **Dataset Kaggle** | [Weather Type Classification](https://www.kaggle.com/datasets/nikhil7280/weather-type-classification) |
 
 ---
 
